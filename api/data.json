@@ -34,7 +34,7 @@
 			"messages": [
 				"La version IOS de l'application Tables MT2012 ne sera plus disponible à partir du 31 août 2024.",
 				"Une solution alternative a été déployé afin de conserver l'accès à l'application : l'application est désormais accessible via internet.",
-				"Vous pouvez désormais accéder à l'application depuis le site https://tables-mt2012.github.io/ via n'importe quel navigateur, tels que google chrome ou safari."
+				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari."
 			],
 			"type": "baniere",
 			"platforms": [
