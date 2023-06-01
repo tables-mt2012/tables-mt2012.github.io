@@ -18,8 +18,8 @@
 			"title": "Migration de l'app IOS !",
 			"subtitle": "Bientôt la fin pour la version IOS",
 			"messages": [
-				"La version IOS de l'application Tables MT2012 ne sera plus disponible <b>à partir du 31 août 2024.</b>",
-				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <b>l'application est désormais accessible via internet</b>.",
+				"La version IOS de l'application Tables MT2012 ne sera plus disponible <strong>à partir du 31 août 2024.</strong>",
+				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <strong>l'application est désormais accessible via internet</strong>.",
 				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari."
 			],
 			"type": "modal",
@@ -32,8 +32,8 @@
 			"title": "Migration de l'app IOS !",
 			"subtitle": "Bientôt la fin pour la version IOS",
 			"messages": [
-				"La version IOS de l'application Tables MT2012 ne sera plus disponible <b>à partir du 31 août 2024.</b>",
-				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <b>l'application est désormais accessible via internet</b>.",
+				"La version IOS de l'application Tables MT2012 ne sera plus disponible <strong>à partir du 31 août 2024.</strong>",
+				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <strong>l'application est désormais accessible via internet</strong>.",
 				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari."
 			],
 			"type": "baniere",
