@@ -11,7 +11,8 @@
 			"type": "modal",
 			"platforms": [
 				"android", "ios"
-			]
+			],
+			"max": -1
 		},
 		{
 			"id": "end_ios",
@@ -25,9 +26,10 @@
 			"type": "modal",
 			"platforms": [
 				"android", "ios"
-			]
+			],
+			"max": -1
 		},
-    {
+    	{
 			"id": "end_ios_baniere",
 			"title": "Migration de l'app IOS !",
 			"subtitle": "Bientôt la fin pour la version IOS",
@@ -39,7 +41,22 @@
 			"type": "baniere",
 			"platforms": [
 				"android", "ios"
-			]
+			],
+			"max": -1
+		},
+		{
+			"id": "pub_podcast",
+			"title": "Podcast intéressant !",
+			"subtitle": "Podcast sur la formation de scaphandrier",
+			"messages": [
+				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis ipsum eget tortor efficitur lacinia non ac magna. Mauris ipsum nunc, ullamcorper eu blandit id, pharetra ut diam. Donec tempor iaculis tortor, a bibendum risus feugiat at. Aliquam ullamcorper lacus eget dui aliquam, eget bibendum lectus facilisis. Nunc finibus egestas leo ac consectetur. Curabitur eu aliquam leo, sit amet blandit lacus. Cras eu ante vel magna molestie bibendum eu non massa..",
+				"Aliquam ullamcorper lacus eget dui aliquam, eget bibendum lectus facilisis. Nunc finibus egestas leo ac consectetur. Curabitur eu aliquam leo, sit amet blandit lacus. Cras eu ante vel magna molestie bibendum eu non massa. Phasellus consectetur fringilla sem dictum blandit. Curabitur lacinia pulvinar tellus sed molestie."
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "ios"
+			],
+			"max": -1
 		}
 	]
 }
