@@ -11,8 +11,7 @@
 			"type": "modal",
 			"platforms": [
 				"android", "ios"
-			],
-			"period": "0"
+			]
 		},
 		{
 			"id": "end_ios",
@@ -21,16 +20,14 @@
 			"messages": [
 				"La version IOS de l'application Tables MT2012 ne sera plus disponible <strong>à partir du 31 août 2024.</strong>",
 				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <strong>l'application est désormais accessible via internet</strong>.",
-				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari.",
-				"Il vous est possible de créer un raccourci de la page web sur votre iphone <strong>pour avoir une utilisation identique à une application mobile</strong>"
+				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari."
 			],
 			"type": "modal",
 			"platforms": [
-				"ios"
-			],
-			"period": "1"
+				"android", "ios"
+			]
 		},
-    	{
+    {
 			"id": "end_ios_baniere",
 			"title": "Migration de l'app IOS !",
 			"subtitle": "Bientôt la fin pour la version IOS",
@@ -41,9 +38,8 @@
 			],
 			"type": "baniere",
 			"platforms": [
-				"ios"
-			],
-			"period": "0"
+				"android", "ios"
+			]
 		}
 	]
 }
