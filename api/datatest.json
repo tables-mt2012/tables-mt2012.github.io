@@ -71,9 +71,9 @@
 			"title": "Mise à jour !",
 			"subtitle": "Version 1.3.5",
 			"messages": [
-				"Une mise à jour est disponible.",
-				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.",
-				"Nouveautés: ",
+				"<p>Une mise à jour est disponible.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
+				"<h3> Nouveautés: </h3>",
 				"<ul> <li> Correction du temps de remonté pour les plongées avec profondeurs équivalentes </li><li> Création du site web : <br><a href='https://tables-mt2012.github.io/'> https://tables-mt2012.github.io/ </a></li><li> Ajout des tables nitrox et successives dans \"Tables\"</li></ul>"
 			],
 			"type": "baniere",
