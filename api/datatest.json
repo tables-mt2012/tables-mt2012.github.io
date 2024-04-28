@@ -1,9 +1,9 @@
 {
-	"version": "v1.3.4",
+	"version": "v1.3.5",
 	"alert": [{
-			"id": "v1.3.4",
+			"id": "v1.3.5",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.3.4",
+			"subtitle": "Version 1.3.5",
 			"messages": [
 				"Une mise à jour est disponible.",
 				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations."
@@ -74,12 +74,12 @@
 				"Une mise à jour est disponible.",
 				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations."
 			],
-			"type": "modal",
+			"type": "baniere",
 			"platforms": [
 				"android", "ios"
 			],
 			"max": -1,
-			"progress": true
+			"progress": false
 		}
 	]
 }
