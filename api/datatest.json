@@ -48,7 +48,7 @@
 			"platforms": [
 				"android", "ios"
 			],
-			"max": -1,
+			"max": 0,
 			"progress": false
 		},
 		{
@@ -63,7 +63,7 @@
 			"platforms": [
 				"android", "ios"
 			],
-			"max": 3,
+			"max": 0,
 			"progress": false
 		},
 		{
@@ -72,7 +72,9 @@
 			"subtitle": "Version 1.3.5",
 			"messages": [
 				"Une mise à jour est disponible.",
-				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations."
+				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.",
+				"Nouveautés: ",
+				"<ul> <li> Correction du temps de remonté pour les plongées avec profondeurs équivalentes </li><li> Création du site web : <br><a href='https://tables-mt2012.github.io/'> https://tables-mt2012.github.io/ </a></li><li> Ajout des tables nitrox et successives dans \"Tables\"</li></ul>"
 			],
 			"type": "baniere",
 			"platforms": [
