@@ -1,9 +1,9 @@
 {
-	"version": "v1.3.5",
+	"version": "v1.4.0",
 	"alert": [{
-			"id": "v1.3.5",
+			"id": "v1.4.0",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.3.5",
+			"subtitle": "Version 1.4.0",
 			"messages": [
 				"<p>Une mise à jour est disponible.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
@@ -28,7 +28,7 @@
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "ios"
+				"ios"
 			],
 			"max": 1,
 			"progress": false
@@ -67,9 +67,9 @@
 			"progress": false
 		},
 		{
-			"id": "v1.3.5",
+			"id": "v1.4.0",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.3.5",
+			"subtitle": "Version 1.4.0",
 			"messages": [
 				"<p>Une mise à jour est disponible.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
