@@ -1,21 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version='1.0' encoding='utf-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'
+	 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+	 xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd'>
+<!-- Created with WriteMaps: An Online Website Planner and Sitemap Generator https://app.writemaps.com -->
+	<url>
+		<loc>https://tables-mt2012.github.io</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://tables-mt2012.github.io/paliers-plongee</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
    <url>
-      <loc>https://tables-mt2012.github.io/accueil</loc>
-   </url>
+		<loc>https://tables-mt2012.github.io/plongee-sans-palier</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://tables-mt2012.github.io/paliers-plongee-successives</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
    <url>
-      <loc>https://tables-mt2012.github.io/paliers-plongée</loc>
-   </url>
-   <url>
-      <loc>https://tables-mt2012.github.io/plongée-sans-palier</loc>
-   </url>
-   <url>
-      <loc>https://tables-mt2012.github.io/paliers-plongée-successives</loc>
-   </url>
-   <url>
-      <loc>https://tables-mt2012.github.io/paliers-plongée-en-altitude</loc>
-   </url>
-   <url>
-      <loc>https://tables-mt2012.github.io/tables-mt2012</loc>
-   </url>
+		<loc>https://tables-mt2012.github.io/paliers-plongee-en-altitude</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
+	<url>
+		<loc>https://tables-mt2012.github.io/tables-mt2012</loc>
+		<lastmod>2024-07-20</lastmod>
+		<priority>1.0</priority>
+	</url>
 </urlset>
