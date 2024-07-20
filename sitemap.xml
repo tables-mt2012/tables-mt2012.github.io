@@ -2,13 +2,12 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'
 	 xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
 	 xsi:schemaLocation='http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd'>
-<!-- Created with WriteMaps: An Online Website Planner and Sitemap Generator https://app.writemaps.com -->
 	<url>
 		<loc>https://tables-mt2012.github.io</loc>
 		<lastmod>2024-07-20</lastmod>
 		<priority>1.0</priority>
 	</url>
-   <url>
+   <!-- <url>
 		<loc>https://tables-mt2012.github.io/accueil</loc>
 		<lastmod>2024-07-20</lastmod>
 		<priority>1.0</priority>
@@ -37,5 +36,5 @@
 		<loc>https://tables-mt2012.github.io/tables-mt2012</loc>
 		<lastmod>2024-07-20</lastmod>
 		<priority>1.0</priority>
-	</url>
+	</url> -->
 </urlset>
