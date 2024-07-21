@@ -1,7 +1,7 @@
 {
-	"version": "v1.4.1",
+	"version": "v1.5.0",
 	"alert": [{
-			"id": "v1.4.1",
+			"id": "v1.5.0",
 			"title": "Mise à jour !",
 			"subtitle": "Version 1.4.0",
 			"messages": [
@@ -28,7 +28,7 @@
 			],
 			"type": "modal",
 			"platforms": [
-				"ios"
+				"ios", "!mobileweb"
 			],
 			"max": 1,
 			"progress": false
@@ -52,7 +52,7 @@
 			"progress": false
 		},
 		{
-			"id": "v1.4.1",
+			"id": "v1.5.0",
 			"title": "Mise à jour !",
 			"subtitle": "Version 1.4.1",
 			"messages": [
@@ -63,7 +63,7 @@
 			],
 			"type": "baniere",
 			"platforms": [
-				"android", "ios"
+				"android", "ios", "!mobileweb"
 			],
 			"max": -1,
 			"progress": false
