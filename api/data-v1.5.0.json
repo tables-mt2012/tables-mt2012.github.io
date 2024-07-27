@@ -23,7 +23,7 @@
 				"<p>Mise à jour.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
 				"<h3> Nouveautés: </h3>",
-				"<ul> <li> Correction du temps de remonté pour les plongées avec profondeurs équivalentes </li><li> Exportation de l'application sur le site web : <br><a target='blank' href='https://tables-mt2012.github.io/'> https://tables-mt2012.github.io/ </a></li></ul>"
+				"<ul> <li> Correction du temps de remonté pour les plongées avec profondeurs équivalentes ;</li><li> Exportation de l'application sur le site web : <br><a target='blank' href='https://tables-mt2012.github.io/'> https://tables-mt2012.github.io/ </a> ;</li><li> Modification de l'interface ;</li><li> Ajout des tables successives et Nitrox dans la liste des tables ;</li> <li> Ajout d'un bouton de réinitialisation des paramètres de l'application dans la section Contact ;</li></ul>"
 			],
 			"type": "baniere",
 			"platforms": [
