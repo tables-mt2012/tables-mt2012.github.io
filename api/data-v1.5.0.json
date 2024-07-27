@@ -27,7 +27,7 @@
 			],
 			"type": "baniere",
 			"platforms": [
-				"android", "ios", "!mobileweb"
+				"android", "ios", "mobileweb", "desktop"
 			],
 			"max": -1,
 			"progress": false
