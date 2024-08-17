@@ -1,16 +1,17 @@
 {
 	"version": "v1.5.1",
-	"alert": [{
-			"id": "v1.5.0",
+	"alert": [
+		{
+			"id": "v1.5.1",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.5.0",
+			"subtitle": "Version 1.5.1",
 			"messages": [
 				"<p>Une mise à jour est disponible.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "ios", "!mobileweb"
+				"android", "!mobileweb"
 			],
 			"max": -1,
 			"progress": true
@@ -28,6 +29,23 @@
 			"type": "baniere",
 			"platforms": [
 				"android", "ios", "mobileweb", "desktop"
+			],
+			"max": -1,
+			"progress": false
+		},
+		{
+			"id": "v1.5.1-baniere",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.1",
+			"messages": [
+				"<p>Mise à jour.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
+				"<h3> Nouveautés: </h3>",
+				"<ul> <li> Correction du temps total de remontée ;</li></ul>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "mobileweb", "desktop"
 			],
 			"max": -1,
 			"progress": false
