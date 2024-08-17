@@ -16,6 +16,21 @@
 			"progress": true
 		},
 		{
+			"id": "v1.5.1",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.1",
+			"messages": [
+				"<p>Une mise à jour est disponible.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
+			],
+			"type": "modal",
+			"platforms": [
+				"android", "!mobileweb"
+			],
+			"max": -1,
+			"progress": true
+		},
+		{
 			"id": "end_ios",
 			"title": "Migration de l'app IOS !",
 			"subtitle": "Désormais disponible sur le web",
