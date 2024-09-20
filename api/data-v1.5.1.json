@@ -11,7 +11,7 @@
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "!mobileweb"
+				"android", "!mobileweb", "ios"
 			],
 			"max": -1,
 			"progress": true
@@ -45,7 +45,7 @@
 			],
 			"type": "baniere",
 			"platforms": [
-				"android", "mobileweb", "desktop"
+				"android", "mobileweb", "desktop", "ios"
 			],
 			"max": -1,
 			"progress": false
@@ -60,7 +60,7 @@
 			],
 			"type": "baniere",
 			"platforms": [
-				"android", "mobileweb", "desktop"
+				"android", "mobileweb", "desktop", "ios"
 			],
 			"max": -1,
 			"progress": false
