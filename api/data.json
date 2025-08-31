@@ -1,49 +1,51 @@
 {
-	"version": "v1.3.4",
+	"version": "v1.5.2",
 	"alert": [{
-			"id": "v1.3.4",
+			"id": "v1.5.2",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.3.4",
+			"subtitle": "Version 1.5.2",
 			"messages": [
-				"Une mise à jour est disponible.",
-				"Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations."
+				"<p>Une mise à jour est disponible.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "ios"
+				"android", "ios", "!mobileweb"
 			],
-			"period": "0"
+			"max": -1,
+			"progress": true
 		},
 		{
-			"id": "end_ios",
-			"title": "Migration de l'app IOS !",
-			"subtitle": "Bientôt la fin pour la version IOS",
+			"id": "v1.5.2-baniere",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.2",
 			"messages": [
-				"La version IOS de l'application Tables MT2012 ne sera plus disponible <strong>à partir du 31 août 2024.</strong>",
-				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <strong>l'application est désormais accessible via internet</strong>.",
-				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari.",
-				"Il vous est possible de créer un raccourci de la page web sur votre iphone <strong>pour avoir une utilisation identique à une application mobile</strong>"
-			],
-			"type": "modal",
-			"platforms": [
-				"ios"
-			],
-			"period": "1"
-		},
-    	{
-			"id": "end_ios_baniere",
-			"title": "Migration de l'app IOS !",
-			"subtitle": "Bientôt la fin pour la version IOS",
-			"messages": [
-				"La version IOS de l'application Tables MT2012 ne sera plus disponible <strong>à partir du 31 août 2024.</strong>",
-				"Une solution alternative a été déployé afin de conserver l'accès à l'application : <strong>l'application est désormais accessible via internet</strong>.",
-				"Vous pouvez désormais accéder à l'application depuis le site <a href='https://tables-mt2012.github.io/'>https://tables-mt2012.github.io</a> via n'importe quel navigateur, tels que google chrome ou safari."
+				"<p>Mise à jour.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
+				"<h3> Nouveautés: </h3>",
+				"<ul> <li> Correction du temps de remonté pour les plongées avec profondeurs équivalentes ;</li><li> Exportation de l'application sur le site web : <br><a target='blank' href='https://tables-mt2012.github.io/'> https://tables-mt2012.github.io/ </a> ;</li><li> Modification de l'interface ;</li> <li> Ajout d'un système de notification pour transmettre des informations utiles ou importantes;</li><li> Ajout des tables successives et Nitrox dans la liste des tables ;</li> <li> Ajout d'un bouton de réinitialisation des paramètres de l'application dans la section Contact ;</li></ul>"
 			],
 			"type": "baniere",
 			"platforms": [
-				"ios"
+				"android", "ios", "mobileweb", "desktop"
 			],
-			"period": "0"
+			"max": -1,
+			"progress": false
+		},
+		{
+			"id": "formation-sal-baniere",
+			"title": "Bien préparer sa formation de SAL en podcast",
+			"subtitle": "",
+			"messages": [
+				"<p>Apprenez en écoutant ! Voici des podcasts pour préparer votre formation ou entretenir votre savoir sur la spécialité de SAL.</p>",
+				"<p><a href='https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51'> https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51 </a></p>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "mobileweb", "desktop", "ios"
+			],
+			"max": -1,
+			"progress": false
 		}
 	]
 }
