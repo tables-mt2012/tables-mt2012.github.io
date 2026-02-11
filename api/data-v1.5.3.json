@@ -1,0 +1,37 @@
+{
+	"version": "v1.5.3",
+	"alert": [
+		{
+			"id": "formation-sal-baniere",
+			"title": "Bien préparer sa formation de SAL en podcast",
+			"subtitle": "",
+			"messages": [
+				"<p>Apprenez en écoutant ! Voici des podcasts pour préparer votre formation ou entretenir votre savoir sur la spécialité de SAL.</p>",
+				"<p><a href='https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51'> https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51 </a></p>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "mobileweb", "desktop", "ios"
+			],
+			"max": -1,
+			"progress": false
+		},
+		{
+			"id": "v1.5.3-baniere",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.3",
+			"messages": [
+				"<p>Mise à jour.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>",
+				"<h3> Nouveautés: </h3>",
+				"<ul> <li> Correction du décalage de 9 mètres dans la colonne 'Prof. réelle' dans l'affichage de la table Nitrox. Cela n'impactait pas les calculs de paliers. ; </li></ul>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "ios", "mobileweb", "desktop"
+			],
+			"max": -1,
+			"progress": false
+		}
+	]
+}
