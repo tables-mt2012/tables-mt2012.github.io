@@ -10,7 +10,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "deploy": "npx angular-cli-ghpages --dir=../plongee_2023/www"
+    "deploy": "angular-cli-ghpages --dir=../plongee_2023_ssh/www"
   },
   "private": true,
   "dependencies": {
