@@ -1,16 +1,16 @@
 {
-	"version": "v1.5.2",
+	"version": "v1.5.3",
 	"alert": [{
-			"id": "v1.5.2",
+			"id": "v1.5.3",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.5.2",
+			"subtitle": "Version 1.5.3",
 			"messages": [
 				"<p>Une mise à jour est disponible.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "ios", "!mobileweb"
+				"android", "mobileweb", "desktop", "ios"
 			],
 			"max": -1,
 			"progress": true
