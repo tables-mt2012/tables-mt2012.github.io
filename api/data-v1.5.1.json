@@ -15,21 +15,6 @@
 			],
 			"max": -1,
 			"progress": true
-		},
-		{
-			"id": "formation-sal-baniere",
-			"title": "Bien préparer sa formation de SAL en podcast",
-			"subtitle": "",
-			"messages": [
-				"<p>Apprenez en écoutant ! Voici des podcasts pour préparer votre formation ou entretenir votre savoir sur la spécialité de SAL.</p>",
-				"<p><a href='https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51'> https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51 </a></p>"
-			],
-			"type": "baniere",
-			"platforms": [
-				"android", "mobileweb", "desktop", "ios"
-			],
-			"max": -1,
-			"progress": false
 		}
 	]
 }
