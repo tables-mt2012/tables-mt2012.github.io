@@ -11,7 +11,7 @@
 			],
 			"type": "modal",
 			"platforms": [
-				"android", "ios", "!mobileweb"
+				"android", "mobileweb", "desktop", "ios"
 			],
 			"max": -1,
 			"progress": true
