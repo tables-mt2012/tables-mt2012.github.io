@@ -1,0 +1,51 @@
+{
+	"version": "v1.5.4",
+	"alert": [
+		{
+			"id": "v1.5.4",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.4",
+			"messages": [
+				"<p>Une mise à jour est disponible.</p>",
+				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
+			],
+			"type": "modal",
+			"platforms": [
+				"android", "mobileweb", "desktop", "ios"
+			],
+			"max": -1,
+			"progress": true
+		},
+		{
+			"id": "formation-sal-baniere",
+			"title": "Bien préparer sa formation de SAL en podcast",
+			"subtitle": "",
+			"messages": [
+				"<p>Apprenez en écoutant ! Voici des podcasts pour préparer votre formation ou entretenir votre savoir sur la spécialité de SAL.</p>",
+				"<p><a href='https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51'> https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51 </a></p>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "mobileweb", "desktop", "ios"
+			],
+			"max": -1,
+			"progress": false
+		},
+		{
+			"id": "v1.5.4-baniere",
+			"title": "Mise à jour !",
+			"subtitle": "Version 1.5.4",
+			"messages": [
+				"<p>Après concertation des référents nationaux, les durées de remontée lors des plongées en altitude et au nitrox ont été rectifiées. Les paliers et la durée de remontée sont ceux de la table de la profondeur équivalente.</p>",
+				"<h3> Nouveautés: </h3>",
+				"<ul><li> Correction de lignes des tables Air/Oxy 6m (27 m, 42 m, 45 m, 48 m, 54 m, 60 m) ;</li><li> Plongées successives : tranches de profondeur corrigées et palier de sécurité de 3 mn à 3 m lorsque le temps équivalent ne donne aucun palier ;</li><li> Plongée en altitude au nitrox : alerte lorsque la profondeur équivalente dépasse la table nitrox ;</li><li> Compatibilité Android 16.</li></ul>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "ios", "mobileweb", "desktop"
+			],
+			"max": -1,
+			"progress": false
+		}
+	]
+}

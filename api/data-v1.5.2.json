@@ -1,10 +1,10 @@
 {
-	"version": "v1.5.3",
+	"version": "v1.5.4",
 	"alert": [
 		{
-			"id": "v1.5.3",
+			"id": "v1.5.4",
 			"title": "Mise à jour !",
-			"subtitle": "Version 1.5.3",
+			"subtitle": "Version 1.5.4",
 			"messages": [
 				"<p>Une mise à jour est disponible.</p>",
 				"<p>Ces mises à jour permettent d'apporter de nouvelles fonctionnalités, ou peuvent permettre de corriger de potentielles erreurs afin de garantir l'exactitude des informations.</p>"
@@ -15,6 +15,21 @@
 			],
 			"max": -1,
 			"progress": true
+		},
+		{
+			"id": "formation-sal-baniere",
+			"title": "Bien préparer sa formation de SAL en podcast",
+			"subtitle": "",
+			"messages": [
+				"<p>Apprenez en écoutant ! Voici des podcasts pour préparer votre formation ou entretenir votre savoir sur la spécialité de SAL.</p>",
+				"<p><a href='https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51'> https://open.spotify.com/show/66CJyMPrcR259fHi1jCR51 </a></p>"
+			],
+			"type": "baniere",
+			"platforms": [
+				"android", "mobileweb", "desktop", "ios"
+			],
+			"max": -1,
+			"progress": false
 		}
 	]
 }
