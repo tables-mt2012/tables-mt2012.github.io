@@ -38,7 +38,7 @@
 			"messages": [
 				"<p>Après concertation des référents nationaux, les durées de remontée lors des plongées en altitude et au nitrox ont été rectifiées. Les paliers et la durée de remontée sont ceux de la table de la profondeur équivalente.</p>",
 				"<h3> Nouveautés: </h3>",
-				"<ul><li> Correction de lignes des tables Air/Oxy 6m (27 m, 42 m, 45 m, 48 m, 54 m, 60 m) ;</li><li> Plongées successives : tranches de profondeur corrigées et palier de sécurité de 3 mn à 3 m lorsque le temps équivalent ne donne aucun palier ;</li><li> Plongée en altitude au nitrox : alerte lorsque la profondeur équivalente dépasse la table nitrox ;</li><li> Compatibilité Android 16.</li></ul>"
+				"<ul><li> Durée de remontée : nouvelle règle pour les plongées en altitude et au nitrox (durée de la table de la profondeur équivalente) ;</li><li> Plongées successives : la règle du palier de sécurité de 3 mn à 3 m est désormais appliquée lorsque le temps équivalent correspond à une remontée sans palier ;</li><li> Plongée sans palier : ajout des intervalles avant plongée ≥ 6h et ≥ 4h, et de la table des temps sans palier dans la page « Tables ».</li></ul>"
 			],
 			"type": "baniere",
 			"platforms": [
